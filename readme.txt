@@ -1,2 +1,2 @@
 git is a version control system
-git is ffree sofeware
+git is free sofeware
